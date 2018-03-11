@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/debug_4x4.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/player.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/water.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/platform.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Fonts/FontDebug.spritefont</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/on.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/off.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/debug_long.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/light.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/lightLine.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/debug_thin.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/Projectil.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/smoke.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/flame.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/projectil2.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/halo.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/particle.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/healthBar.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/healthBarBackground.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/projectilGun.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/lightingGun.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/rocketLauncher.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/laserGun.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/EnergyLauncher.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/health.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/cursor.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/shield.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/numbers.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/foot.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/footAir.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/laserDestHalo.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/muzzleSimple.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/rocketLauncherFlame.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/smokeSmall.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/enemyPiece.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/hot.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/projectilGunUp.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/projectilGunDown.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/shieldBar.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/shieldBarBackground.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/numbersMedium.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/zombie.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/spawn.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/tileTop.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/sky.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/zombieShirt.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/portal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/portalThing.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/zombieShirtBlue.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/grenade.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/white.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/EnergyLauncherDown.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/EnergyLauncherUp.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/lightingGunUp.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/lightingGunDown.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/spawnPanel.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/saw.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/laserGunUp.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/laserGunDown.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/flamb.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/template.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/coin.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/backgroundWin.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/tile03.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/letters.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/zombieFrozen.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/sound.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/jump.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/hit.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/coin.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/teleport.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/electro.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/explosion.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/vortex.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/ColorManipulation.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/Gauss.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/Lights.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/LightPlayer.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/LightRocket.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/TESTLIGHT.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/BaseColor.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/lampGroundLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/lampGround.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/flameLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/tileBack1.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/tileBack1 - kopie.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/tileBackLeft.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/Transition.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/footWalk.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/SmokeBig.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/liftRail.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/liftEnd.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/Flake.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/sawNut.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/grenadeHit.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/Slide.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/boundary.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/damage.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/saw.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/FireSmall.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/Water.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/tileMask.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/triggerOnLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/triggerOffLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/turretBase.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/turretHead.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/flameThrower.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/flameThrowerDown.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/flameThrowerUp.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/FlameProjectile.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/flamb.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/waterTop.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/playerTurretBase.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/playerTurretHead.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/FireSmallLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/door.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/doorRack.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/bubble.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/Info.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/AlphaManipulation.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/controlBack.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/controlBackHover.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/healthBar2.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/LaserLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/projectileLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/hotLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/FireSmallLightHalo.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/PlasmaGun.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/plasma.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/muzzleSimpleLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/PlasmaGunDown.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/PlasmaGunUp.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/muzzlePlasma.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/muzzlePlasmaLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/SmokeSmall2.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/FireSmall2LightHalo.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/PlasmaRifleShoot.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/plasmaLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/gem.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/rainDrop.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/TestRec.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/podBase.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/roomBase.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Doors/doorBase.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Triggers/triggerBase.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Lights/lightBase.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Player/playerVest.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Lights/lightPick.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Pickables/pickableGear.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/laserDest.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/rocketLauncher.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/rocketLauncherUp.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/rocketLauncherDown.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Vehicles/mechGun.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/select.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/mechWalk.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/backgroundEditor.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/backgroundEditorMenu.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/grabLine.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/colorBarBlue.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/colorBarRed.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/colorBarGreen.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/colorPreviewPanel.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/panelBackground.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/colorPanelBlank.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/tileBackHover.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Tiles/tilesSand.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/tileBackSelected.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/cursorGrid.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Tiles/tilesDirt.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/panelBackgroundLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Tiles/tilesSteel.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/scrollButton.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/scrollBar.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/scrollBarGrabed.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/grab.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/checkBoxClassic.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/checkBoxVisibility.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/saveBackground.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/buttonBig.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/selectedGun.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/lettersSmall.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/lettersBig.PNG</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/cursorHand.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/radioClassic.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/fileFolder.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/fileBackground.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/editSymbol.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/textBoxBack.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/borderRec.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/cornerRec.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/radioBig.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Tiles/tilesPhysics.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/paper.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/buttonSmall.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/notParsed.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/borderWhiteRec.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/cornerWhiteRec.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/cursorMouse.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/frameBlue.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/buttonBigback.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/checkBoxSound.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Vehicles/mechBody.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Vehicles/mechLeftLeg.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Vehicles/mechRightLeg.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/particle.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/flame.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Carry/battery.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Lights/batteryLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/Triggers/button.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Triggers/triggerBattery.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sounds/Triggers/batteryInserted.wav</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Pickables/tissueHigh.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Pickables/electroHigh.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/weaponMenuBack.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/weaponMenuBackMask.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/lightning.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/lightningBig.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/ribbonSmoke.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/ribbonSpark.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/ribbonFire.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/ribbonSmokeLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/flameDrop.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/lightDrop.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/blackParticle.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Player/playerWorld.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/World/city.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Triggers/endPort.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Vehicles/aircraft.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/healthBarMachBackground.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/healthBarMach.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Vehicles/aircraftThruster.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/flameDropBig.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/slotBackground.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/gridItemBack.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Items/part.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Triggers/automat.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Lights/automatLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/shopMenuBack.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Items/tier2.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Items/tier3.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/shopItemSelected.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/shopItemBack.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Triggers/shop.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Lights/shopLight.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/framePurple.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/NPCs/crate.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/buttonDrop.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/buttonInDrop.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/flameCircle.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/smokeCircle.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Movables/elevatorClaw.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Movables/elevatorClawBack.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/LootCrateStainNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/LootCrateStain.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/NormalLight.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Test/testaaa.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/playerNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/playerVestNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/shopNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/platformNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/RotateNormals.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/liftRailNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/liftEndNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/elevatorClawNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/smokeCircleNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/ribbonSmokeNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/SmokeBigNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/tileNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/tileTopNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/flameThrowerNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/vertexNormal.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/grenadeNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/playerTurretBaseNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/playerTurretHeadNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Decorations/Normal maps/monumentNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/NPCs/Normal maps/turretHeadNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/NPCs/Normal maps/turretBaseNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Tiles/WaterOver.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Normal maps/rocketNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Triggers/Normal maps/triggerNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/projectilGunNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/World/TilesWorld.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/World/SandCover.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Player/playerWorldMask.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/projectilGunUpNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/projectilGunDownNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/lightingGunNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/lightingGunDownNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/lightingGunUpNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/flameThrowerUpNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/flameThrowerDownNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/laserGunUpNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/laserGunNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/laserGunDownNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/rocketLauncherNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/rocketLauncherDownNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/rocketLauncherUpNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/PlasmaGunDownNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/PlasmaGunNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/PlasmaGunUpNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/EnergyLauncherNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/EnergyLauncherDownNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Weapons/Normal Maps/EnergyLauncherUpNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Decorations/Normal maps/sandLampNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Decorations/sandLamp.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Lights/flareSand.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Tiles/Normal Maps/tilesNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/EnergyLauncherIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/flameThrowerIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/laserGunIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/lightingGunIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/PlasmaGunIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/projectilGunIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/rocketLauncherIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/grenadeIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/electroIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/UI/tissueIcon.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Effects/BaseColorSimple.fx</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Carry/Normal maps/batteryNormal.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Particles/lightningChain.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Pickables/health.png</File>
+    <File>C:/Users/Jakub/Desktop/Work place/Content/Sprites/Pickables/shield.png</File>
+  </SourceFiles>
+</SourceFileCollection>

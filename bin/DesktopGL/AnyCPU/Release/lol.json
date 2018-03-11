@@ -1,0 +1,10 @@
+{
+  "Walk left": 65,
+  "Walk right": 68,
+  "Jump": 32,
+  "Grab": 81,
+  "Use": 69,
+  "Screenshot": 113,
+  "Toogle fullscreen": 122,
+  "Throw grenade": 71
+}

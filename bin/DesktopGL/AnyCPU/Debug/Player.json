@@ -1,0 +1,182 @@
+{
+  "$id": "1",
+  "$type": "Monogame_GL.Player, Monogame_GL",
+  "Boundary": {
+    "$id": "2",
+    "$type": "Monogame_GL.RectangleF, Monogame_GL",
+    "Size": "48, 124",
+    "Position": "64, 0"
+  },
+  "Credit": 5,
+  "Resolver": {
+    "$id": "3",
+    "$type": "Monogame_GL.CollisionResolver, Monogame_GL",
+    "TouchTopMovable": false,
+    "TouchBottomMovable": false,
+    "TouchLeftMovable": false,
+    "TouchRightMovable": false,
+    "TouchLeft": false,
+    "TouchRight": false,
+    "TouchBottom": false,
+    "TouchTop": false,
+    "InWater": false,
+    "verticalPressure": false
+  },
+  "Speed": "0.8, 0.3",
+  "MaxSpeed": "1, 1",
+  "MechDirection": 1,
+  "Health": 100.0,
+  "Shield": 100.0,
+  "maxShield": 100,
+  "PotentialHealth": 100.0,
+  "PotentialShield": 100.0,
+  "MaxHealth": 100,
+  "RayDestination": null,
+  "CurrentWeapon": 0,
+  "GrenadesCount": 30,
+  "ControlsActive": true,
+  "Alive": true,
+  "Weapons": {
+    "$id": "4",
+    "$values": [
+      {
+        "$id": "5",
+        "$type": "Monogame_GL.SimpleGun, Monogame_GL",
+        "VelocityOfProjectile": 2.0,
+        "MaxAmmo": 1000,
+        "Ammo": 1000,
+        "Owner": {
+          "$ref": "1"
+        },
+        "Time": 100.0,
+        "GunTimer": {
+          "$id": "6",
+          "$type": "Monogame_GL.Timer, Monogame_GL",
+          "DelayMilisec": 100.0,
+          "ActualTimeLeft": 0.0,
+          "Ready": true
+        },
+        "tempSegment": null,
+        "OriginOfMuzzle": "0, 0",
+        "MuzzleAlpha": 0.0,
+        "FlameOrigin": "0, 0"
+      },
+      {
+        "$id": "7",
+        "$type": "Monogame_GL.LightningGun, Monogame_GL",
+        "VelocityAdd": 1.0,
+        "MaxAmmo": 1000,
+        "Ammo": 1000,
+        "Owner": {
+          "$ref": "1"
+        },
+        "GunTimer": {
+          "$id": "8",
+          "$type": "Monogame_GL.Timer, Monogame_GL",
+          "DelayMilisec": 200.0,
+          "ActualTimeLeft": 200.0,
+          "Ready": true
+        },
+        "DamageApply": 30
+      },
+      {
+        "$id": "9",
+        "$type": "Monogame_GL.LaserGun, Monogame_GL",
+        "VelocityAdd": 1.0,
+        "MaxAmmo": 1000,
+        "Ammo": 1000,
+        "Owner": {
+          "$ref": "1"
+        },
+        "GunTimer": {
+          "$id": "10",
+          "$type": "Monogame_GL.Timer, Monogame_GL",
+          "DelayMilisec": 60.0,
+          "ActualTimeLeft": 60.0,
+          "Ready": true
+        },
+        "DamageApply": 5,
+        "IsOn": false
+      },
+      {
+        "$id": "11",
+        "$type": "Monogame_GL.FlameThrower, Monogame_GL",
+        "_muzzleAlpha": 0.0,
+        "VelocityOfProjectile": 1.0,
+        "MaxAmmo": 1000,
+        "Ammo": 1000,
+        "Owner": {
+          "$ref": "1"
+        },
+        "GunTimer": {
+          "$id": "12",
+          "$type": "Monogame_GL.Timer, Monogame_GL",
+          "DelayMilisec": 100.0,
+          "ActualTimeLeft": 100.0,
+          "Ready": true
+        },
+        "tempSegment": null,
+        "OriginOfMuzzle": "0, 0"
+      },
+      {
+        "$id": "13",
+        "$type": "Monogame_GL.RocketLauncher, Monogame_GL",
+        "VelocityOfProjectile": 1.6,
+        "MaxAmmo": 100,
+        "Ammo": 100,
+        "Owner": {
+          "$ref": "1"
+        },
+        "GunTimer": {
+          "$id": "14",
+          "$type": "Monogame_GL.Timer, Monogame_GL",
+          "DelayMilisec": 1000.0,
+          "ActualTimeLeft": 1000.0,
+          "Ready": true
+        }
+      },
+      {
+        "$id": "15",
+        "$type": "Monogame_GL.EnergyLaucher, Monogame_GL",
+        "VelocityOfProjectile": 0.6,
+        "MaxAmmo": 100,
+        "Ammo": 100,
+        "Owner": {
+          "$ref": "1"
+        },
+        "Damage": 1000,
+        "GunTimer": {
+          "$id": "16",
+          "$type": "Monogame_GL.Timer, Monogame_GL",
+          "DelayMilisec": 1000.0,
+          "ActualTimeLeft": 1000.0,
+          "Ready": true
+        }
+      }
+    ]
+  },
+  "Carry": null,
+  "InMech": false,
+  "RayEnlonged": null,
+  "RayBarrel": {
+    "$id": "17",
+    "$type": "Monogame_GL.LineSegmentF, Monogame_GL",
+    "Start": "0, 0",
+    "End": "1, 1"
+  },
+  "WalkingVisible": false,
+  "RotLeftLeg": 0.0,
+  "RotRightLeg": 0.0,
+  "RotationBody": 0.0,
+  "Ray": {
+    "$id": "18",
+    "$type": "Monogame_GL.LineSegmentF, Monogame_GL",
+    "Start": "0, 0",
+    "End": "1, 1"
+  },
+  "WalkChange": 0,
+  "GunBarrel": 64.0,
+  "Time": 0.0,
+  "Velocity": "0, 0",
+  "ShowDestination": false
+}

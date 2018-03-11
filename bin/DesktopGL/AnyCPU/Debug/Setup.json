@@ -1,0 +1,27 @@
+{
+  "ControlKeys": {
+    "Walk up world": 87,
+    "Walk down world": 83,
+    "Walk left world": 65,
+    "Walk right world": 68,
+    "Walk left": 65,
+    "Walk right": 68,
+    "Jump": 32,
+    "Grab": 81,
+    "Use": 69,
+    "Screenshot": 123,
+    "Toogle fullscreen": 122,
+    "Throw grenade": 70
+  },
+  "GlobalVolume": 1.0,
+  "IsFullScreen": true,
+  "WindowSizeFullscreen": {
+    "X": 1920,
+    "Y": 1080
+  },
+  "WindowSizeWindowed": {
+    "X": 960,
+    "Y": 540
+  },
+  "Mute": 0
+}

@@ -1,0 +1,386 @@
+[
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 0
+    },
+    "Code": "sandLeftTop"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 0
+    },
+    "Code": "sandMiddleTop"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 0
+    },
+    "Code": "sandRightTop"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 1
+    },
+    "Code": "sandLeftMiddle"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 1
+    },
+    "Code": "sandMiddleMiddle"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 1
+    },
+    "Code": "sandRightMiddle"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 2
+    },
+    "Code": "sandLeftBottom"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 2
+    },
+    "Code": "sandMiddleBottom"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 2
+    },
+    "Code": "sandRightBottom"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 0
+    },
+    "Code": "sandVertical"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 1
+    },
+    "Code": "sandHorizontal"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 2
+    },
+    "Code": "sand"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 4,
+      "Y": 0
+    },
+    "Code": "sandtTop"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 4,
+      "Y": 1
+    },
+    "Code": "sandLeft"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 5,
+      "Y": 0
+    },
+    "Code": "sandBottom"
+  },
+  {
+    "TextureName": "TilesSand",
+    "IndexInPicture": {
+      "X": 5,
+      "Y": 1
+    },
+    "Code": "sandRight"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 0
+    },
+    "Code": "dirtLeftTop"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 0
+    },
+    "Code": "dirtMiddleTop"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 0
+    },
+    "Code": "dirtRightTop"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 1
+    },
+    "Code": "dirtLeftMiddle"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 1
+    },
+    "Code": "dirtMiddleMiddle"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 1
+    },
+    "Code": "dirtRightMiddle"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 2
+    },
+    "Code": "dirtLeftBottom"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 2
+    },
+    "Code": "dirtMiddleBottom"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 2
+    },
+    "Code": "dirtRightBottom"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 0
+    },
+    "Code": "dirtVertical"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 1
+    },
+    "Code": "dirtHorizontal"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 2
+    },
+    "Code": "dirt"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 4,
+      "Y": 0
+    },
+    "Code": "dirtTop"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 4,
+      "Y": 1
+    },
+    "Code": "dirtLeft"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 5,
+      "Y": 0
+    },
+    "Code": "dirtBottom"
+  },
+  {
+    "TextureName": "TilesDirt",
+    "IndexInPicture": {
+      "X": 5,
+      "Y": 1
+    },
+    "Code": "dirtRight"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 0
+    },
+    "Code": "steelLeftTop"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 0
+    },
+    "Code": "steelMiddleTop"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 0
+    },
+    "Code": "steelRightTop"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 1
+    },
+    "Code": "steelLeftMiddle"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 1
+    },
+    "Code": "steelMiddleMiddle"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 1
+    },
+    "Code": "steelRightMiddle"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 0,
+      "Y": 2
+    },
+    "Code": "steelLeftBottom"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 1,
+      "Y": 2
+    },
+    "Code": "steelMiddleBottom"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 2,
+      "Y": 2
+    },
+    "Code": "steelRightBottom"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 0
+    },
+    "Code": "steelVertical"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 1
+    },
+    "Code": "steelHorizontal"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 3,
+      "Y": 2
+    },
+    "Code": "steel"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 4,
+      "Y": 0
+    },
+    "Code": "steelTop"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 4,
+      "Y": 1
+    },
+    "Code": "steelLeft"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 5,
+      "Y": 0
+    },
+    "Code": "steelBottom"
+  },
+  {
+    "TextureName": "TilesSteel",
+    "IndexInPicture": {
+      "X": 5,
+      "Y": 1
+    },
+    "Code": "steelRight"
+  }
+]

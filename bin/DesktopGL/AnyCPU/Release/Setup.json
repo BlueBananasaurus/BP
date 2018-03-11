@@ -1,0 +1,19 @@
+{
+  "ControlKeys": {
+    "Walk left": 65,
+    "Walk right": 68,
+    "Jump": 32,
+    "Grab": 81,
+    "Use": 69,
+    "Screenshot": 19,
+    "Toogle fullscreen": 122,
+    "Throw grenade": 70
+  },
+  "GlobalVolume": 1.0,
+  "IsFullScreen": true,
+  "WindowSize": {
+    "X": 960,
+    "Y": 540
+  },
+  "Mute": 1
+}

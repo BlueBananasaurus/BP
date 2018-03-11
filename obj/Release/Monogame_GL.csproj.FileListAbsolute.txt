@@ -1,0 +1,450 @@
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\BaseColor.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\ColorManipulation.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\Gauss.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\Lights.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Fonts\FontDebug.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\coin.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\electro.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\explosion.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\hit.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\jump.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\sound.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\teleport.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\vortex.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\backgroundWin.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Button.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\ButtonHover.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\coin.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\cursor.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\debug_4x4.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\debug_long.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\debug_thin.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\enemyPiece.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\EnergyLauncher - kopie.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\EnergyLauncher.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\EnergyLauncherDown.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\EnergyLauncherUp.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\explosion.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flamb.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flame.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameParticle.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\foot.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\footAir.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\grenade.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\halo.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\health.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\healthBar.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\healthBar2.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\healthBarBackground.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\hot.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lampGround.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lampGroundLight.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserDestHalo.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserGun.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserGunDown.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserGunUp.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\letters.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\light.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lightingGun.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lightingGunDown.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lightingGunUp.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lightLine.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\LightPlayer.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\LightRocket.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\muzzleSimple.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\numbers.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\numbersMedium.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\off.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\on.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\particle.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\platform.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\player.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\portal.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\portalThing.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Projectil.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectil2.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectilGun.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectilGunDown.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectilGunUp.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\rocketLauncher.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\rocketLauncherFlame.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\saw.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\selected.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\shield.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\shieldBar.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\shieldBarBackground.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\sky.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\smoke.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\smokeExpl.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\smokeSmall.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\spawn.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\spawnPanel.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\template.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\TESTLIGHT.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tile03.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileMiddle.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileTop.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\transporter.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\water.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\white.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\zombie.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\zombieFrozen.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\zombieShirt.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\zombieShirtBlue.xnb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x86\SDL2.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x64\SDL2.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x86\soft_oal.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x64\soft_oal.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x86\libSDL2-2.0.so.0
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x64\libSDL2-2.0.so.0
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x86\libopenal.so.1
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x64\libopenal.so.1
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\libSDL2-2.0.0.dylib
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\libopenal.1.dylib
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll.config
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Monogame_GL.exe
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Monogame_GL.pdb
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Newtonsoft.Json.dll
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Newtonsoft.Json.xml
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\obj\Release\Monogame_GL.exe
+C:\Users\Jakub\documents\visual studio 2015\Projects\Monogame_GL\Monogame_GL\obj\Release\Monogame_GL.pdb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\AlphaManipulation.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\Slide.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\Water.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\damage.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\flamb.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\grenadeHit.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\saw.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\boundary.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\bubble.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\controlBack.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\controlBackHover.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\door.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\doorRack.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\FireSmall.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\FireSmallLight.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Flake.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameLight.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\FlameProjectile.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameThrower.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameThrowerDown.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameThrowerUp.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\footWalk.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Info.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lettersFolder.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\liftEnd.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\liftRail.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\mechBody.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\mechLeg.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\mechLegBack.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\playerTurretBase.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\playerTurretHead.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\saveBack.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\saveBackSelected.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\sawNut.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\SmokeBig.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileBack1 - kopie.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileBack1.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileBackLeft.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileMask.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Transition.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\triggerOffLight.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\triggerOnLight.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\turretBase.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\turretHead.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\waterTop.xnb
+C:\Users\Jakub\Documents\Visual Studio 2015\Projects\Monogame_GL\Monogame_GL\obj\Release\Monogame_GL.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\obj\Release\Monogame_GL.exe
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\obj\Release\Monogame_GL.pdb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\EnergyLauncher - kopie.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\smokeExpl.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileMiddle.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\transporter.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x86\SDL2.dll
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x64\SDL2.dll
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x86\soft_oal.dll
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x64\soft_oal.dll
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x86\libSDL2-2.0.so.0
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x64\libSDL2-2.0.so.0
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x86\libopenal.so.1
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\x64\libopenal.so.1
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\libSDL2-2.0.0.dylib
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\libopenal.1.dylib
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll.config
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\AlphaManipulation.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\BaseColor.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\ColorManipulation.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\Gauss.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\Lights.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\Slide.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Effects\Water.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Fonts\FontDebug.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\coin.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\damage.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\electro.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\explosion.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\flamb.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\grenadeHit.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\hit.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\jump.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\mechWalk.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\PlasmaRifleShoot.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\saw.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\select.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\sound.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\teleport.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\vortex.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Doors\doorBase.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Lights\lightBase.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Lights\lightPick.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Pickables\pickableGear.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Player\playerVest.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\backgroundWin.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\boundary.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\bubble.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\CheckBoxChecked.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\CheckBoxCheckedHover.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\CheckBoxPressed.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\CheckBoxUnchecked.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\CheckBoxUncheckedHover.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\coin.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\controlBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\controlBackHover.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\cursor.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\debug_4x4.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\debug_long.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\debug_thin.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\door.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\doorRack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\enemyPiece.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\EnergyLauncher.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\EnergyLauncherDown.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\EnergyLauncherUp.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\FireSmall.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\FireSmall2LightHalo.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\FireSmallLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\FireSmallLightHalo.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Flake.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flamb.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flame.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\FlameProjectile.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameThrower.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameThrowerDown.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\flameThrowerUp.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\foot.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\footAir.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\footWalk.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\gem.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\grenade.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\halo.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\health.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\healthBar.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\healthBar2.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\healthBarBackground.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\hot.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\hotLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Info.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lampGround.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lampGroundLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserDest.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserDestHalo.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserGun.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserGunDown.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\laserGunUp.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\LaserLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\letters.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\liftEnd.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\liftRail.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\light.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lightingGun.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lightingGunDown.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lightingGunUp.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\lightLine.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\LightPlayer.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\LightRocket.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\LootCrateStain.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\mechBody.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\mechLeg.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\mechLegBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\muzzlePlasma.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\muzzlePlasmaLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\muzzleSimple.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\muzzleSimpleLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\numbers.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\numbersMedium.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\off.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\on.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\particle.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\plasma.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\PlasmaGun.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\PlasmaGunDown.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\PlasmaGunUp.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\plasmaLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\platform.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\player.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\playerTurretBase.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\playerTurretHead.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\podBase.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\portal.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\portalThing.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Projectil.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectil2.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectileLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectilGun.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectilGunDown.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\projectilGunUp.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\rainDrop.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\rocketLauncher.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\rocketLauncherFlame.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\roomBase.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\saveBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\saveBackSelected.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\saw.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\sawNut.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\shield.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\shieldBar.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\shieldBarBackground.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\sky.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\smoke.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\SmokeBig.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\smokeSmall.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\SmokeSmall2.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\spawn.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\spawnPanel.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\template.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\TESTLIGHT.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\TestRec.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tile03.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileBack1 - kopie.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileBack1.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileBackLeft.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileMask.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\tileTop.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\Transition.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\triggerOffLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\triggerOnLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\turretBase.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\turretHead.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\water.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\waterTop.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\white.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\zombie.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\zombieFrozen.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\zombieShirt.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Test\zombieShirtBlue.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Tiles\tilesDirt.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Tiles\tilesSand.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Tiles\tilesSteel.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Triggers\triggerBase.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Triggers\triggerBaseOn.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\backgroundEditor.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\backgroundEditorMenu.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\buttonBig.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\checkBoxClassic.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\checkBoxVisibility.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\colorBarBlue.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\colorBarGreen.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\colorBarRed.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\colorPanelBlank.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\colorPreviewPanel.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\cursorGrid.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\cursorHand.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\editSymbol.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\fileBackground.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\fileFolder.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\grab.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\grabLine.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\lettersBig.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\lettersSmall.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\panelBackground.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\panelBackgroundLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\radioClassic.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\saveBackground.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\scrollBar.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\scrollBarGrabed.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\scrollButton.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\selectedGun.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\tileBackHover.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\tileBackNormal.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\tileBackSelected.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Vehicles\mechGun.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Weapons\rocketLauncher.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Weapons\rocketLauncherDown.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Weapons\rocketLauncherUp.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Textures.json
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Monogame_GL.exe
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Monogame_GL.pdb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Newtonsoft.Json.dll
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Newtonsoft.Json.xml
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\obj\Release\Monogame_GL.csprojResolveAssemblyReference.cache
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\textBoxBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\Triggers\batteryInserted.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sounds\Triggers\button.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Carry\battery.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Items\part.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Items\tier2.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Items\tier3.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Lights\automatLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Lights\batteryLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Lights\shopLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\NPCs\crate.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\blackParticle.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\flame.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\flameDrop.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\flameDropBig.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\lightDrop.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\lightning.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\lightningBig.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\particle.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\ribbonFire.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\ribbonSmoke.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\ribbonSmokeLight.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\ribbonSpark.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Pickables\electroHigh.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Pickables\tissueHigh.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Player\playerWorld.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Tiles\tilesPhysics.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Triggers\automat.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Triggers\endPort.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Triggers\shop.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Triggers\triggerBattery.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\borderRec.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\borderWhiteRec.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\buttonBigback.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\buttonSmall.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\checkBoxSound.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\cornerRec.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\cornerWhiteRec.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\cursorMouse.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\frameBlue.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\framePurple.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\gridItemBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\healthBarMach.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\healthBarMachBackground.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\notParsed.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\paper.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\radioBig.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\shopItemBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\shopItemSelected.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\shopMenuBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\slotBackground.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\weaponMenuBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\weaponMenuBackMask.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Vehicles\aircraft.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Vehicles\aircraftThruster.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Vehicles\mechBody.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Vehicles\mechLeftLeg.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Vehicles\mechRightLeg.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\World\city.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\map.json
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\mapG.json
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Sounds.json
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Movables\elevatorClaw.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Movables\elevatorClawBack.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\flameCircle.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\Particles\smokeCircle.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\buttonDrop.xnb
+C:\Users\Jakub\Desktop\8.10.2017\Monogame_GL\Monogame_GL\bin\DesktopGL\AnyCPU\Release\Content\Sprites\UI\buttonInDrop.xnb
